@@ -30,7 +30,7 @@ class HammingDistance
         //Check if two strings are equal.
         $counter = self::isEqualStrings($string1, $string2);
 
-        //strChar1 &strChar2 used after converts a string to an array.
+        //strCharArray1 & strCharArray2 used after converts a string to an array.
         $strCharArray1 = "";
         $strCharArray2 = "";
 
