@@ -54,7 +54,7 @@ require_once 'LevenshteinDistance.php';
 
         </tr>
         <tr>
-            <?php /*Thirrd test*/
+            <?php /*Third test*/
             $string1 = "this is a test";
             $string2 = "this is test"; ?>
             <?php /*Echo strings values*/ ?>
@@ -66,7 +66,7 @@ require_once 'LevenshteinDistance.php';
 
         </tr>
         <tr>
-            <?php /*Thirrd test*/
+            <?php /*Fourth test*/
             $string1 = "Levenshtein";
             $string2 = "hamming"; ?>
             <?php /*Echo strings values*/ ?>
