@@ -4,7 +4,7 @@
  * Simple user form.
  *
  * Description: This file created to display hamming and levenshtine distance
- * depeing on user inputs.
+ * depending on user inputs.
  * 
  * @since 2/12/2021
  */
